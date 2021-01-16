@@ -1,0 +1,5 @@
+Account: 100        First Name: Bob          Last Name: Jones        Balance:      24.98
+Account: 200        First Name: Steve        Last Name: Doe          Balance:    -345.67
+Account: 300        First Name: Pam          Last Name: White        Balance:       0.00
+Account: 400        First Name: Sam          Last Name: Stone        Balance:     -42.16
+Account: 500        First Name: Sue          Last Name: Rich         Balance:     224.62
